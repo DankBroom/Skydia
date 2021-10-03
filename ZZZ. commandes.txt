@@ -1,0 +1,5 @@
+Mettre en maintenance (à copier en head de index, articles et info) :
+  <meta http-equiv="Refresh" content="0; url=ERROR/maintenance.html"/>
+  
+Mettre en ligne (à copier en head de maintenance.html) :
+  <meta http-equiv="Refresh" content="0; url=ERROR/404.html"/>
